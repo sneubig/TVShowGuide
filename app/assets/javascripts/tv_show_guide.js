@@ -1,4 +1,4 @@
-window.TVShowGuide = {
+App = {
   Models: {},
   Collections: {},
   Views: {},
@@ -9,5 +9,5 @@ window.TVShowGuide = {
 };
 
 $(document).ready(function(){
-  TVShowGuide.initialize();
+  App.initialize();
 });
